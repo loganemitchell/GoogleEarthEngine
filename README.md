@@ -39,3 +39,6 @@ https://www.eia.gov/state/index.php?sid=WY
 
 If you browse to a coal plant you can click on "View Data in the Electricity Data Browser" and look at the data.  Here is the Jim Bridger power plant a little NE of Rock Springs WY (compare March 2019 when they produced 1087 GWh to March 2020 when they produced 827 GWh).  Note that there is some annual variability in electricity production, so some of the 2019-2020 difference could just be seasonal changes, or perhaps moving seasonal maintenance up as electricity demad changed:
 https://www.eia.gov/electricity/data/browser/#/plant/8066
+
+
+An example of how this tool can be used can be seen in this <a href="https://trib.com/news/state-and-regional/energy-journal-pollutants-from-coal-decline-during-covid-19-in-wyoming/article_c9263410-c132-51d9-8745-4a42ba85b40c.html">article from the Casper Star Tribune</a>.
