@@ -24,7 +24,6 @@ Here is some more information/documentation:
 
 
 There are several things that would be useful to add that I haven't had a chance to do yet:
-- Add a legend or color bar
 - Add labels to the map.  For example, I thought this was useful & would be neat to embed into the map: https://twitter.com/J_I_Fisher/status/1265327283864244228
 - Some way to add up or average the column NO2 in some area (defined with a rectangle, or a KML shape, or something like that).
 
